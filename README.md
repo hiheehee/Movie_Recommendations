@@ -11,6 +11,11 @@
 # Dataset
 * [the-movies-dataset | kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 --------------------------
+# Recommendation System example
+* Netflix : 대여되는 영화의 2/3가 추천으로부터 발생
+* Google News : 38%이상의 조회가 추천에 의해 발생
+* Amazon : 판매의 35%가 추천으로부터 발생
+
 # Recommendation algorithm
 ## Contents Based Filtering
 * 사용자와 아이템에 대해 DB를 구성하여 이를 기반으로 추천하는 방법
@@ -23,3 +28,8 @@
 ## Collaborative Filtering
 * 사용자의 과거 행동 양식을 기반으로 추천하는 방법
 ## Latent Factorization
+
+------------------------------
+# 참고 문헌
+https://scvgoe.github.io/2017-02-01-%ED%98%91%EC%97%85-%ED%95%84%ED%84%B0%EB%A7%81-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-(Collaborative-Filtering-Recommendation-System)/
+
